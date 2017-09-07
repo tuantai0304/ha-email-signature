@@ -66,7 +66,7 @@ function buildTask(options){
               .pipe(minifyInline())
               .pipe(rename(function rename(path){
                 path.dirname = dir;
-                path.basename += '-' + conf.id;
+                path.basename += '-' + conf.name;
                 return path;
               }))
               .pipe(gulp.dest(options.dist));

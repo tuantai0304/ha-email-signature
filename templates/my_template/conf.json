@@ -1,0 +1,95 @@
+[{
+  "id": "1",
+  "signature": "Best regards,",
+  "name": "Andrew Maspero",
+  "position": "Customer First Agent",
+  "contactMail": "andrew@hostingaustralia.com.au"
+},{
+  "id": "2",
+  "signature": "Best regards,",
+  "name": "Thomas Jackson",
+  "position": "Customer First Agent",
+  "contactMail": "thomas@hostingaustralia.com.au"
+},{
+  "id": "3",
+  "signature": "Best regards,",
+  "name": "Ezra Miller",
+  "position": "Customer First Agent",
+  "contactMail": "ezra@hostingaustralia.com.au"
+},
+{
+  "id": "4",
+  "signature": "Best regards,",
+  "name": "Gaby Facci",
+  "contactMail": "gaby@hostingaustralia.com.au"
+},
+{
+  "id": "5",
+  "signature": "Best regards,",
+  "name": "Leonard Bernardone",
+  "position": "Customer First Agent",
+  "contactMail": "ezra@hostingaustralia.com.au"
+},
+{
+  "id": "6",
+  "signature": "Best regards,",
+  "name": "Abdel Khan",
+  "position": "Lead System Architect",
+  "contactMail": "Abdel Khan"
+},
+{
+  "id": "7",
+  "signature": "Best regards,",
+  "name": "Koray Koch",
+  "position": "Digital Solutions Specialist",
+  "contactMail": "koray@hostingaustralia.com.au"
+},
+{
+  "id": "8",
+  "signature": "Best regards,",
+  "name": "Joy Reyes",
+  "position": "Customer First Agent",
+  "contactMail": "joy@hostingaustralia.com.au"
+},
+{
+  "id": "9",
+  "signature": "Best regards,",
+  "name": "William Ralloma",
+  "position": "Customer First Agent",
+  "contactMail": "william@hostingaustralia.com.au"
+},
+{
+  "id": "10",
+  "signature": "Best regards,",
+  "name": "Quel Abajar",
+  "position": "Customer First Agent",
+  "contactMail": "quel@hostingaustralia.com.au"
+},
+{
+  "id": "11",
+  "signature": "Best regards,",
+  "name": "David Martin",
+  "position": "Senior Developer",
+  "contactMail": "david@hostingaustralia.com.au"
+},
+{
+  "id": "12",
+  "signature": "Best regards,",
+  "name": "Jonathan Horne",
+  "position": "Director",
+  "contactMail": "jonathan@hostingaustralia.com.au"
+},
+{
+  "id": "13",
+  "signature": "Best regards,",
+  "name": "Nick Bell",
+  "position": "Director",
+  "contactMail": "nick@hostingaustralia.com.au"
+},
+{
+  "id": "14",
+  "signature": "Best regards,",
+  "name": "Nick Cornish",
+  "position": "Partner Channel Manager",
+  "contactMail": "nickc@hostingaustralia.com.au"
+}]
