@@ -10,7 +10,7 @@ img {
 body {
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: none;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 a{
@@ -40,20 +40,28 @@ a{
     max-width: 480px;
 }
 
+.signature, .info-item p {
+  color: #202020;
+}
+
 .signature {
-  font-size: 16px;
-  margin-bottom: 15px;
+  font-size: 15px;
+  margin-bottom: 20px;
 }
 
 .name {
-  font-size: 20px;
-  font-weight: bold;
+  font-size: 19px;
+  font-weight: 600;
 }
 
 .position {
-  font-size: 16px;
-  color: #a1cb4b;
+  font-size: 15px;
   margin-bottom: 50px;
+  font-weight: bold;
+}
+
+.position, .info-item {
+  color: #99C04B;
 }
 
 .logo {
@@ -63,7 +71,6 @@ a{
   font-size: 12px;
 }
 .info-item {
-  color: #a1cb4b;
   margin-right: 5px;
   font-weight: bold;
 }
@@ -74,13 +81,18 @@ a{
 }
 
 .info p:nth-child(2) {
-  margin-left: 10px;
+  margin-left: 15px;
 }
 
 .row, .info p {
-  margin: 12px 0 12px;
+  margin: 0px 0 12px;
 }
 
 .row.rate-us {
   margin-top: 35px;
 }
+
+.row.rate-us img:nth-child(2) {
+  margin-left: 2px;
+}
+
