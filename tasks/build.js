@@ -62,7 +62,6 @@ function buildTask(options){
                 preserveMediaQueries: true,
                 removeStyleTags: false
               }))
-              .pipe(minifyHTML({quotes: true}))
               .pipe(minifyInline())
               .pipe(rename(function rename(path){
                 path.dirname = dir;
